@@ -1,0 +1,6 @@
+struct People
+{
+	unsigned long index;	
+	string message;
+	
+};
